@@ -37,11 +37,11 @@ blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
 
 #Work experience is required
 roles:
- - title: Senior Engineer
-   start: 2016
+ - title: Substitute Teacher
+   start: 2017
    end: Ongoing
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
+   employer: Cypress-Fairbanks Independent School District, primarily Cypress Ranch and Cypress Woods high schools. 
+   description: Performs the duties of a teacher in the teacher’s absence, in accordance with instructions and policies of the teacher, school and district. Instructs students in a wide array of some of the largest high schools (3,500+) in one of the nation's largest school districts (120,000+).
  - title: Senior Engineer
    start: 2012
    end: 2016
