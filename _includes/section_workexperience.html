@@ -11,8 +11,6 @@
 						<th><a style="cursor: pointer;">Start Date</a></th>
 						<th><a style="cursor: pointer;">End Date</a></th>
 						<th><a style="cursor: pointer;">Company</a></th>
-					</tr>
-					<tr>
 						<th colspan=4><a style="cursor: pointer;">Role</a></th>
 					</tr>
 				</thead>
@@ -23,9 +21,7 @@
 							<td>{{role.start}}</td>
 							<td>{{role.end}}</td>
 							<td>{{role.employer}}</td>
-						</tr>
-						<tr>
-							<td>{{role.description}}</td>
+							<td colspan=4>{{role.description}}</td>
 						</tr>
 					{% endfor %}
 				</tbody>
