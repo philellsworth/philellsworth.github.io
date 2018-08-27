@@ -1,16 +1,16 @@
 # Site settings
-- title: Phil Ellsworth
-- twitter_username: philellsworth
-- name: Phil Ellsworth
+title: Phil Ellsworth
+twitter_username: philellsworth
+name: Phil Ellsworth
 
 # Build settings
-- markdown: kramdown
+markdown: kramdown
 
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Portfolio
-   url: https://philellsworth.com/
+ - title: Blog
+   url: http://philellsworth.com/
  - title: GitHub
    url: https://github.com/philellsworth
  #- title: StackOverflow
@@ -37,12 +37,7 @@ blogfeed: http://philellsworth.com
 
 #Work experience is required
 roles:
- - title: Economist
-   start: 2017
-   end: Ongoing
-   employer: Texas Workforce Commission
-   description: Perform the duties of a teacher in the teacher’s absence, in accordance with instructions and policies of the teacher, school and district. Includes administering tests, maintaining classroom discipline. Instructs students at the high school level in a wide array of topics.
-- title: Substitute Teacher
+ - title: Substitute Teacher
    start: 2017
    end: Ongoing
    employer: Cypress-Fairbanks School District, Cypress TX
