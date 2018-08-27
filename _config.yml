@@ -1,6 +1,8 @@
 # Site settings
 title: Phil Ellsworth
 twitter_username: philellsworth
+linkedin_username: philellsworth
+facebook_username: philellsworth
 name: Phil Ellsworth
 
 # Build settings
@@ -10,13 +12,17 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: http://philellsworth.com/
+   url: https://philellsworth.com/
+ - title: poems.philellsworth.com
+   url: https://poems.philellsworth.com/
+ - title: My Father's War
+   url: https://ww2.philellsworth.com
  - title: GitHub
    url: https://github.com/philellsworth
- #- title: StackOverflow
- #  url: http://stackoverflow.com/users/258813/rhinds
+ - title: StackOverflow
+   url: https://stackoverflow.com/users/3747047/philellsworth
  #- title: DZone
- #  url: https://dzone.com/users/899489/rhinds.html
+ #  url: 
  - title: LinkedIn
    url: https://www.linkedin.com/in/philellsworth
 
@@ -29,17 +35,23 @@ skills:
  - Adobe Photoshop
  - Adobe Dreamweaver
  - WordPress
- #- REST
- #- Tech Architecture
+ - Jekyll
+ - Commercial Photography
+ - Professional Editing and Reporting
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: http://philellsworth.com
 
 #Work experience is required
 roles:
- - title: Substitute Teacher
+ - title: Economist
    start: 2017
    end: Ongoing
+   employer: Texas Workforce Commission
+   description: Texas Workforce Commission, Labor Market and Career Information – October 2017 to present. Validate macro-level data through research and analysis, to document and reconcile employment and wages by ownership, industry, and location, and validate micro-level data to document and reconcile employment, wages, and contributions. Document, explain, and track economic events to aid in analysis. Assign North American Industry Classification System (NAICS) industry codes and other data codes using standard procedures. Edit multiple worksite and wage reports for accuracy, and to document acquisitions and divestitures.
+ - title: Substitute Teacher
+   start: 2017
+   end: 2017
    employer: Cypress-Fairbanks School District, Cypress TX
    description: Perform the duties of a teacher in the teacher’s absence, in accordance with instructions and policies of the teacher, school and district. Includes administering tests, maintaining classroom discipline. Instructs students at the high school level in a wide array of topics.
  - title: Hardlines Sales Team Member
@@ -74,23 +86,13 @@ education:
 #      date: April 28, 2014
 
 #List of interesting Github repo/projects to include - optional
-#github:
-# - robhinds/learning-neural-networks
-# - robhinds/akka-http-rest-api-sample
-# - robhinds/twitter-sentiment-analysis
-# - robhinds/spring-reactor-twitter
-# - robhinds/microservices
-# - robhinds/spring-social-geeklist
-# - robhinds/spring-social-stackoverflow
-# - robhinds/food2vec
-# - robhinds/SpringMongoIntegrationExample
-# - robhinds/SpringNeo4JWebApp
-# - robhinds/AndroidChuckQuiz
-# - robhinds/AndroidRssReader
+github:
+ - philellsworth/philellsworth.github.io.git
+ - philellsworth/pinteresting
 
 #Stackoverflow flair is optional
 #stackoverflow:
-   #profileurl: http://stackoverflow.com/users/258813/rhinds
+   # profileurl: http://stackoverflow.com/users/258813/rhinds
    #flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 #Mobile apps section is optional
