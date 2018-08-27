@@ -1,10 +1,10 @@
 # Site settings
-title: Phil Ellsworth
-twitter_username: philellsworth
-name: Phil Ellsworth
+- title: Phil Ellsworth
+- twitter_username: philellsworth
+- name: Phil Ellsworth
 
 # Build settings
-markdown: kramdown
+- markdown: kramdown
 
 #User specific content
 #Links that will appear in the navbar
